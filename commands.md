@@ -5,6 +5,8 @@ python-dotenv 0.21.0
 djangorestframework==3.14.0
 pytest==7.4.3
 pytest-django-4.7.0
+black==23.11.0
+flake8-6.1.0
 
 # Commands
 
@@ -24,3 +26,10 @@ pip freeze > requirements.txt
 
 pytest -h # prints options _and_ config file settings
 
+## VS Code Extensions
+
+Python (Microsoft)
+Night Owl (sarah.drasner) # vs code theme
+SQLite (alexcvzz)
+Black Formatter (Microsoft)
+Flake8 (Microsoft)
