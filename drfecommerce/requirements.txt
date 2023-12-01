@@ -2,6 +2,8 @@ asgiref==3.7.2
 black==23.11.0
 click==8.1.7
 Django==4.1.4
+django-js-asset==2.1.0
+django-mptt==0.15.0
 djangorestframework==3.14.0
 exceptiongroup==1.2.0
 flake8==6.1.0
